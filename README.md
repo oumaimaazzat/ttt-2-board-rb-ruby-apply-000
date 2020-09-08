@@ -7,11 +7,11 @@
 When building a Tic Tac Toe program, you're going to have to figure out a way to store or represent the game board. Looking at a Tic Tac Toe board, we can identify a few properties.
 
 ```
-   |   |
+  1 |  2 | 3
 -----------      
-   |   |
+  4 |  5 | 6
 -----------   
-   |   |
+  7 |  8 | 9
 ```
 
 A Tic Tac Toe board is basically a 3x3 grid with 9 total positions. You could think of the positions as being numbered, from top left to bottom right, as:
